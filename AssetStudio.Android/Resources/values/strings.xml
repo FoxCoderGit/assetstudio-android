@@ -1,0 +1,33 @@
+﻿<resources>
+    <string name="app_name">AssetStudio .NET</string>
+    <string name="title">AssetStudio Export (Android)</string>
+    <string name="hint">Select a Unity folder, choose export options, then start background export.</string>
+    <string name="select_folder">1. Select Folder</string>
+    <string name="start_export">2. Start Export</string>
+    <string name="selected_folder">Selected folder:</string>
+    <string name="no_folder">No folder selected</string>
+    <string name="log_title">Log</string>
+
+    <string name="export_type">Export type</string>
+    <string name="image_format">Image format (Texture2D/Sprite)</string>
+    <string name="audio_to_wav">Convert AudioClip to WAV (when possible)</string>
+
+    <string name="status_label">Status</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_starting">Starting export...</string>
+    <string name="status_running">Export in progress (background)</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_canceled">Canceled</string>
+    <string name="status_error">Error</string>
+
+    <string name="notification_channel_name">Asset Export</string>
+    <string name="notification_channel_description">Background export status</string>
+    <string name="notification_title">AssetStudio export</string>
+    <string name="notification_preparing">Preparing background export...</string>
+    <string name="notification_running">Export running in background</string>
+    <string name="notification_done_title">Export completed</string>
+    <string name="notification_done_text">Tap to open results and logs.</string>
+    <string name="notification_canceled_title">Export canceled</string>
+    <string name="notification_canceled_text">Export was canceled.</string>
+    <string name="notification_failed_title">Export failed</string>
+</resources>
